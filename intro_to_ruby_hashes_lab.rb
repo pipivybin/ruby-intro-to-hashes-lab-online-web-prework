@@ -17,8 +17,6 @@ def monopoly_with_second_tier
 	monopoly = {
 		railroads: {piecess: 4, names: {}, rent_in_dollars: {}}
 	}
-
-
 end
 
 def monopoly_with_third_tier
